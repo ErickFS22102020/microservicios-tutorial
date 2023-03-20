@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;com.usuario.service.feignClients&apos; to &apos;com.usuario.service.feignclients&apos;&#x0D;&#x0A;- Original project: &apos;usuario-service&apos;&#x0D;&#x0A;- Original element: &apos;usuario-service/src/main/java/com.usuario.service.feignClients&apos;&#x0D;&#x0A;- Renamed element: &apos;usuario-service/src/main/java/com.usuario.service.feignclients&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;com.usuario.service.feignClients&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src\/main\/java=/optional=/true=/=/maven.pomderived=/true=/&lt;com.usuario.service.feignClients" name="com.usuario.service.feignclients" qualified="false" references="true" stamp="1679272695584" textual="false" version="1.0"/>
+</session>
